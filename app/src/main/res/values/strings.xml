@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="dice_1" />
+    <string name="dice_2" />
+    <string name="roll" />
+    <string name="roll1">Roll</string>
+    <string name="asatbek_khirullayev">Asatbek Khirullayev</string>
+</resources>
